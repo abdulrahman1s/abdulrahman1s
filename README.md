@@ -35,7 +35,7 @@
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 <a href="https://discord.com/users/644975690005086229" target="_blank">
 <img src=https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=Discord style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<br />
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=TheMaestro0&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 </div>  
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMaestro0&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
