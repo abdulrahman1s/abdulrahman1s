@@ -1,4 +1,4 @@
-![TheMaestroo](https://i.imgur.com/6TZrk7p.png)
+![TheMaestroo](https://i.imgur.com/o3VWE7X.png)
 
 <br />  
 
