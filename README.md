@@ -34,7 +34,7 @@ My current fucus 👉 [ItChat](https://github.com/Itchat-app/itchat)
 | [BarryTube](https://youtube.com/channel/UC5p0FTpOleZUc87YVJ8VX-g)         | Comedy              | `true`  |
 | [Hussein Abdullah](https://youtube.com/channel/UCFq4pOuTiZmfJyCxaYTT3Hg)  | Science             | `true`  |
 | [Rawasekh](https://youtube.com/channel/UCYAD3s0LuVcvqRvWzWghpnw)          | Science             | `true`  |
-| [SANKARA](https://youtube.com/channel/UCNR623NFV3DbWpPTrA8cI_A)           | Hardwara            | `true`  |
+| [SANKARA](https://youtube.com/channel/UCNR623NFV3DbWpPTrA8cI_A)           | Hardware            | `true`  |
 
 ### 🎧 Music Mode
 - [NF](https://youtube.com/channel/UCoRR6OLuIZ2-5VxtnQIaN2w)
