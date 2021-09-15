@@ -1,44 +1,48 @@
-![TheMaestroo](https://i.imgur.com/o3VWE7X.png)
+[<img src="https://img.shields.io/discord/865319695850405888?color=5865F2&style=for-the-badge&label=Discord" />](https://discord.gg/nNHH5apCwr)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_TheMaestroo_) 
+![counter](https://komarev.com/ghpvc/?username=TheMaestro0&style=flat-square)
 
-<br />  
+## <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px"> Hello there!</h2>
+My name is [*Abdulrahman*](https://wikipedia.org/wiki/Abd_al-Rahman) aka **TheMaestroo** living in [🇪🇬 Egypt](https://wikipedia.org/wiki/Egypt)
+</br>I can speak [اَلْعَرَبِيَّةُ](https://wikipedia.org/wiki/Arabic) natively. *one of the most hardest language in the world 💪*
 
-### Languages and Tools
+My current fucus 👉 [ItChat](https://github.com/Itchat-app/itchat)
 
-<img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Spring" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/csharp.svg" alt="C#" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/dot-net.svg" alt="NET" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/flask.svg" alt="Flask" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/manjaro.svg" alt="Manjaro" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/tensorflow.svg" alt="Tensorflow" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/vue-dot-js.svg" alt="VueJS" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
-<br />
-<br />
-<br />
+### 👀 Language list
 
+| Language                                                            | Skill        | Love/Hate    |
+| ------------------------------------------------------------------- | ------------ | ------------ |
+| [JavaScript](https://wikipedia.org/wiki/JavaScript)                 | Professional | Hate/Love    |
+| [TypeScript](https://www.typescriptlang.org/)                       | Professional | Love         |
+| [Python](https://www.python.org/)                                   | Medium       | Hate         |
+| [Rust](https://www.rust-lang.org/)                                  | Learning     | Love         |
+| [Java](https://www.java.com/)                                       | Basics       | Hate         |
+| [C++](https://wikipedia.org/wiki/C_Sharp_(programming_language))    | Basics       | None         |
+| [C#](https://wikipedia.org/wiki/C%2B%2B)                            | Basics       | None         |
 
+### 📺 Favorite YouTube Channels
+> That really I love
 
-### Connect with me
+| Channel                                                                   | Type                | Arabic  |
+| ------------------------------------------------------------------------- | ------------------- | ------- |
+| [Fireship](https://youtube.com/c/Fireship)                                | Programming         | `false` |
+| [censiCLICK](https://youtube.com/c/censiCLICK)                            | Tech/Privacy        | `false` |
+| [Techlore](https://youtube.com/c/Techlore)                                | Privacy             | `false` |
+| [Chris Titus Tech](https://youtube.com/user/homergfunk)                   | Tech/Linux          | `false` |
+| [Imagine](https://youtube.com/channel/UCEpoqfVgGS3GqtYaIzUazqQ)           | Science             | `true`  |
+| [RADAL](https://youtube.com/channel/UCT1mF-u0Lcf7bYuUWTvDcpw)             | Comedy              | `false` |
+| [BarryTube](https://youtube.com/channel/UC5p0FTpOleZUc87YVJ8VX-g)         | Comedy              | `true`  |
+| [Hussein Abdullah](https://youtube.com/channel/UCFq4pOuTiZmfJyCxaYTT3Hg)  | Science             | `true`  |
+| [Rawasekh](https://youtube.com/channel/UCYAD3s0LuVcvqRvWzWghpnw)          | Science             | `true`  |
+| [SANKARA](https://youtube.com/channel/UCNR623NFV3DbWpPTrA8cI_A)           | Hardwara            | `true`  |
+
+### 🎧 Music Mode
+- [NF](https://youtube.com/channel/UCoRR6OLuIZ2-5VxtnQIaN2w)
+- [Cairokee](https://youtube.com/channel/Cairokeeofficial)
+- [Mekky](https://youtube.com/channel/UC5F2sh-KJOPakiYyGzR1ffg)
+- [Hamza Namira](https://www.youtube.com/hamzanamira)
+- That's set.
+</br>
 <div align="center">
-<a href="https://github.com/TheMaestro0" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/themaestro0" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/themaestro0" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-<a href="https://discord.com/users/644975690005086229" target="_blank">
-<img src=https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=Discord style="margin-bottom: 5px;" />
-</a> 
-<br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMaestro0&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaestro0&layout=compact" />
+    Show some <a href="https://wikipedia.org/wiki/Love">❤️</a> by <a href="https://ko-fi.com/themaestroo">Buying me a Coffee ☕</a>
 </div>
-
-
