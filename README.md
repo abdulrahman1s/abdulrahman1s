@@ -1,9 +1,9 @@
 [<img src="https://img.shields.io/discord/865319695850405888?color=5865F2&style=for-the-badge&label=Discord" />](https://discord.gg/nNHH5apCwr)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_TheMaestroo_) 
-![counter](https://komarev.com/ghpvc/?username=TheMaestro0&style=flat-square)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TheMaestro1s)
+![counter](https://komarev.com/ghpvc/?username=TheMaestro1s&style=flat-square)
 
 ## <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px"> Hello there!</h2>
-My name is [*Abdulrahman*](https://wikipedia.org/wiki/Abd_al-Rahman) aka **TheMaestroo** living in [🇪🇬 Egypt](https://wikipedia.org/wiki/Egypt)
+My name is [*Abdulrahman*](https://wikipedia.org/wiki/Abd_al-Rahman) aka **TheMaestro** living in [🇪🇬 Egypt](https://wikipedia.org/wiki/Egypt)
 </br>I can speak [اَلْعَرَبِيَّةُ](https://wikipedia.org/wiki/Arabic) natively. *one of the most hardest language in the world 💪*
 
 My current fucus 👉 [ItChat](https://github.com/Itchat-app/itchat)
@@ -43,6 +43,7 @@ My current fucus 👉 [ItChat](https://github.com/Itchat-app/itchat)
 - [Hamza Namira](https://www.youtube.com/hamzanamira)
 - That's set.
 </br>
+
 <div align="center">
-    Show some <a href="https://wikipedia.org/wiki/Love">❤️</a> by <a href="https://ko-fi.com/themaestroo">Buying me a Coffee ☕</a>
+    Show some <a href="https://wikipedia.org/wiki/Love">❤️</a> by <a href="https://ko-fi.com/themaestro">Buying me a Coffee ☕</a>
 </div>
