@@ -29,6 +29,16 @@ and sometimes I make random javascript libraries 😀
 ![achievements](achievements.svg)
 </details>
 
+<details>
+<summary>🏕 <b>Useless information</b> (related to my workflow)</summary>
+
+- **PC:** literally a potato with four gigs of ram
+- **Code Editor:** Neovim
+- **OS:** Fedora
+- **Single:** I proud of myself to be single lmao
+
+</details>
+
 ### 💬 Contact me
 - 🐦 [@TheMaestro1s](https://twitter.com/TheMaestro1s) on Twitter
 - 🇱 [@Abdulrahmann](https://linkedin.com/in/abdulrahmann) on Linkedin
