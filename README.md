@@ -6,8 +6,8 @@ I'm someone who is passionate about **Linux** and likes to **write code**.
 <br/><br/>
 
 I mostly write **JS/TS** these days.
-I'm currently focusing on front-end stuffs to be a "*full-stack developer*" 👏 <br/>
-and sometimes I make random javascript libraries 😀
+I'm currently focusing on front-end stuffs to be a "*full-stack developer*" <br/>
+and sometimes I make random javascript libraries.
 
 <details>
 <summary>🚀 <b>Learning curve...</b></summary>
