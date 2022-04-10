@@ -1,7 +1,12 @@
-## <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px"> Hello there!
-### I'm currently interested in full stack development. 👀
-Hi, I'm an egyption student almost 17 years old <br/>
-I love coding in JS/TS and little bit of html/css
+<img align="left" src="https://i.ibb.co/ZJGDpqh/image.png">
+
+### Hey!
+I'm someone who is passionate about **Linux** and likes to **write code**.
+
+<br/><br/>
+
+#### About me
+I mostly write **JS/TS** these days.
 I'm currently focusing on front-end stuffs to be a "*full-stack developer*" 👏 <br/>
 and sometimes I make random javascript libraries 😀
 
@@ -38,6 +43,7 @@ and sometimes I make random javascript libraries 😀
 - **Single:** I proud of myself to be single lmao
 
 </details>
+
 
 ### 💬 Contact me
 - 🐦 [@TheMaestro1s](https://twitter.com/TheMaestro1s) on Twitter
