@@ -26,4 +26,3 @@ jobs:
             README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          KOFI_LINK: https://ko-fi.com/themaestro
