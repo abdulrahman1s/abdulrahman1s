@@ -53,7 +53,4 @@ and sometimes I make random javascript libraries.
 - 🐦 [@TheMaestro1s](https://twitter.com/TheMaestro1s) on Twitter
 - 🇱 [@Abdulrahmann](https://linkedin.com/in/abdulrahmann) on Linkedin
 
-<div align="center">
-    Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="">Buying me a Coffee ☕</a>
-</div>
-
+<!-- include template/footer.md -->
