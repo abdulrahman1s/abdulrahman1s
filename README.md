@@ -57,4 +57,7 @@ and sometimes I make random javascript libraries.
     Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/themaestro">Buying me a Coffee ☕</a>
 </div>
 
-<!-- include template/footer.md -->
+<div align="center">
+    Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/themaestro">Buying me a Coffee ☕</a>
+</div>
+
