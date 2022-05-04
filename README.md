@@ -27,14 +27,14 @@ and sometimes I make random javascript libraries.
 
 <summary>📈 <b>Some statistics that may surprise you!</b></summary>
 
-![Metrics](github-metrics.svg)
+![Metrics](assets/statistics.svg)
 
 </details>
 
 <details>
 <summary>✨ <b>Achievements I Got!</b></summary>
 
-![achievements](achievements.svg)
+![achievements](assets/achievements.svg)
 </details>
 
 <details>
