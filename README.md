@@ -53,4 +53,5 @@ and sometimes I make random javascript libraries.
 - 🐦 [@TheMaestro1s](https://twitter.com/TheMaestro1s) on Twitter
 - 🇱 [@Abdulrahmann](https://linkedin.com/in/abdulrahmann) on Linkedin
 
-<!-- include template/footer.md -->
+<!-- START template/donate.md -->
+<!-- END template/donate.md -->
