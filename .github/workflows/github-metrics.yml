@@ -14,7 +14,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/statistics.svg
-          user: abdelrahman1s
+          user: abdulrahman1s
           template: classic
           base: activity, community, repositories
           config_timezone: Africa/Cairo
@@ -34,7 +34,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/achievements.svg
-          user: abdelrahman1s
+          user: abdulrahman1s
           template: classic
           base: ""
           config_timezone: Africa/Cairo
