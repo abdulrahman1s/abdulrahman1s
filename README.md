@@ -14,12 +14,13 @@ and sometimes I make random javascript libraries.
 - [X] Programming Foundations
 - [ ] Full Stack Developer
   - [X] Backend
-  - [ ] Frontend (Current focus)
+  - [ ] Frontend (Mostly done)
 - [ ] Mobile Devlopment
   - [ ] Flutter
-- [ ] Languages I wish to learn 
+- [ ] Languages I wish to learn
   - [ ] Rust
   - [ ] Kotlin
+  - [ ] C#
   - [X] Shell Scripting
 </details>
 
