@@ -21,6 +21,7 @@ and sometimes I make random javascript libraries.
   - [ ] Rust
   - [ ] Kotlin
   - [ ] C#
+  - [ ] Dart
   - [X] Shell Scripting
 </details>
 
