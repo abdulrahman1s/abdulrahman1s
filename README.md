@@ -34,19 +34,19 @@ and sometimes I make random javascript libraries.
 </details>
 
 <details>
-<summary>✨ <b>Achievements I Got!</b></summary>
+<summary>✨ <b>Achievements</b></summary>
 
 ![achievements](assets/achievements.svg)
 </details>
 
 <details>
-<summary>🏕 <b>Useless information</b> (related to my workflow)</summary>
+<summary>🏕 <b>My Workstation</b></summary>
 
-- **PC:** literally a potato with four gigs of ram
-- **OS:** Linux mint
+- **PC:** i3 3110M + 4 gigabyte of ram
+- **OS:** Arch linux
 - **Code Editor:** Neovim
-  - All of my configurations can be found [here](https://github.com/TheMaestro1s/.config).
-- **Browser:** Brave Browser 
+  - All of my configurations can be found [here](https://github.com/abdulrahman1s/.config).
+- **Browser:** Brave Browser
 
 </details>
 
