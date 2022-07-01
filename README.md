@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-I mostly write **JS/TS** these days. I'm currently focusing on front-end technologies to be a "*full-stack developer*". <br/>
+I mostly write **JS/TS** & **Rust** these days. I'm currently focusing on front-end technologies to be a "*full-stack developer*". <br/>
 and sometimes I make random javascript libraries.
 
 <details>
@@ -18,7 +18,6 @@ and sometimes I make random javascript libraries.
 - [ ] Mobile Devlopment
   - [ ] Flutter
 - [ ] Languages I wish to learn
-  - [ ] Rust
   - [ ] Kotlin
   - [ ] C#
   - [ ] Dart
