@@ -1,12 +1,12 @@
 <img align="left" src="https://i.ibb.co/ZJGDpqh/image.png">
 
-### Hey!
+### Hey - Salam Alaikum!
 *I'm a person who's obsessed about **Linux** and loves to write `<code>`*
 
 <br/><br/>
 
 I mostly write **JS/TS** & **Rust** these days. I'm currently focusing on front-end technologies to be a "*full-stack developer*". <br/>
-and sometimes I make random javascript libraries.
+and often I make libraries for JavaScript and bots for fun! 😁
 
 <details>
 <summary>🚀 <b>Learning curve...</b></summary>
@@ -15,18 +15,20 @@ and sometimes I make random javascript libraries.
 - [ ] Full Stack Developer
   - [X] Backend
   - [ ] Frontend (Mostly done)
-- [ ] Mobile Devlopment
-  - [ ] Flutter
-- [ ] Languages I wish to learn
+- [ ] Things I wish to learn this year!
+  - [X] Rust
   - [ ] Kotlin
   - [ ] C#
-  - [ ] Dart
+  - [ ] Flutter
   - [X] Shell Scripting
 </details>
 
 <details>
 
 <summary>📈 <b>Some statistics that may surprise you!</b></summary>
+
+Note: Organizations statistics don't get applied.
+
 
 ![Metrics](assets/statistics.svg)
 
