@@ -17,6 +17,7 @@ and often I make libraries for JavaScript and bots for fun! 😁
   - [ ] Frontend (Mostly done)
 - [ ] Things I wish to learn this year!
   - [X] Rust
+  - [ ] Go
   - [ ] Kotlin
   - [ ] C#
   - [ ] Flutter
