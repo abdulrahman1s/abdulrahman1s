@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-I mostly write **JS/TS** & **Rust** these days. I'm currently focusing on front-end technologies to be a "*full-stack developer*". <br/>
+I mostly write **Rust** & **JS/TS** these days. I'm currently focusing on front-end technologies to be a "*full-stack developer*". <br/>
 and often I make libraries for JavaScript and bots for fun! 😁
 
 <details>
@@ -44,23 +44,20 @@ Note: Organizations statistics don't get applied.
 <details>
 <summary>🏕 <b>My Workstation</b></summary>
 
-- **PC:** i3 3110M + 4 gigabyte of ram
+- **PC:** i3 3110M + 4GB of RAM
 - **OS:** Arch linux
 - **Code Editor:** Neovim
-  - All of my configurations can be found [here](https://github.com/abdulrahman1s/.config).
+  - All of my configurations can be found [here](https://github.com/abdulrahman1s/dotfiles).
 - **Browser:** Brave Browser
 
 </details>
 
 
-
-### 💬 Contact me
+### 💬 Follow me
 - 🐦 [@TheMaestro1s](https://twitter.com/TheMaestro1s) on Twitter
-- 🇱 [@Abdulrahmann](https://linkedin.com/in/abdulrahmann) on Linkedin
+- 🇱 [@abdulrahmann](https://linkedin.com/in/abdulrahmann) on Linkedin
+- 🇩 [@abdulrahman1s](https://dev.to/abdulrahman1s)
 
-<!-- START template/donate.md -->
 <div align="center">
     Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
 </div>
-
-<!-- END template/donate.md -->
