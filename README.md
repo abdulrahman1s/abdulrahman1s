@@ -56,7 +56,7 @@ Note: Organizations statistics don't get applied.
 ### 💬 Follow me
 - 🐦 [@TheMaestro1s](https://twitter.com/TheMaestro1s) on Twitter
 - 🇱 [@abdulrahmann](https://linkedin.com/in/abdulrahmann) on Linkedin
-- 🇩 [@abdulrahman1s](https://dev.to/abdulrahman1s)
+- 🇩 [@abdulrahman1s](https://dev.to/abdulrahman1s) on Dev.to
 
 <div align="center">
     Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
