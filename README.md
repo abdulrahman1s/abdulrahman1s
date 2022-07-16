@@ -6,7 +6,7 @@
 <br/><br/>
 
 I mostly write **Rust** & **JS/TS** these days. I'm currently focusing on front-end technologies to be a "*full-stack developer*". <br/>
-and often I make libraries for JavaScript and bots for fun! 😁
+Also I write coding articles at [dev.to](https://dev.to/abdulrahman1s).
 
 <details>
 <summary>🚀 <b>Learning curve...</b></summary>
@@ -31,7 +31,7 @@ and often I make libraries for JavaScript and bots for fun! 😁
 Note: Organizations statistics don't get applied.
 
 
-![Metrics](assets/statistics.svg)
+![statistics](assets/statistics.svg)
 
 </details>
 
@@ -39,6 +39,12 @@ Note: Organizations statistics don't get applied.
 <summary>✨ <b>Achievements</b></summary>
 
 ![achievements](assets/achievements.svg)
+</details>
+
+<details>
+<summary>👀 <b>Recent articles</b></summary>
+
+[![articles](assets/articles.svg)](https://dev.to/abdulrahman1s)
 </details>
 
 <details>
