@@ -60,7 +60,7 @@ Note: Organizations statistics don't get applied.
 
 
 ### 💬 Follow me
-- 🐦 [@TheMaestro1s](https://twitter.com/TheMaestro1s) on Twitter
+- 🐦 [@abdulrahman1s_](https://twitter.com/TheMaestro1s) on Twitter
 - 🇱 [@abdulrahmann](https://linkedin.com/in/abdulrahmann) on Linkedin
 - 🇩 [@abdulrahman1s](https://dev.to/abdulrahman1s) on Dev.to
 
