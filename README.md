@@ -28,9 +28,6 @@ Also I write coding articles at [dev.to](https://dev.to/abdulrahman1s).
 
 <summary>📈 <b>Some statistics that may surprise you!</b></summary>
 
-Note: Organizations statistics don't get applied.
-
-
 ![statistics](assets/statistics.svg)
 
 </details>
