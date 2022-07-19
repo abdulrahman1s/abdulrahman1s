@@ -11,6 +11,7 @@ jobs:
       - name: 📈 Generate Statistics
         uses: lowlighter/metrics@latest
         with:
+          debug: yes
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/statistics.svg
           user: abdulrahman1s
