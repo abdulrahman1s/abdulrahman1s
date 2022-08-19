@@ -5,8 +5,9 @@
 
 <br/><br/>
 
-I mostly write **Rust** & **JS/TS** these days. I'm currently focusing on front-end technologies to be a "*full-stack developer*". <br/>
-Also I write coding articles at [dev.to](https://dev.to/abdulrahman1s).
+I mostly write **Rust** & **JS/TS** these days. <br/>
+Freelancer/Founder at [**Al Bustan**](https://albustan.net) and I work every now and then on [ItChat](https://github.com/itchatapp) a discord-like alternative <br/>
+Also I'm the [***fifth most active github user in egypt.***](https://commits.top/egypt.html)
 
 <details>
 <summary>🚀 <b>Learning curve...</b></summary>
