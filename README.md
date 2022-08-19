@@ -48,7 +48,7 @@ Also I write coding articles at [dev.to](https://dev.to/abdulrahman1s).
 <summary>🏕 <b>My Workstation</b></summary>
 
 - **PC:** i3 3110M + 4GB of RAM
-- **OS:** Arch linux
+- **OS:** Nobara linux
 - **Code Editor:** Neovim
   - All of my configurations can be found [here](https://github.com/abdulrahman1s/dotfiles).
 - **Browser:** Brave Browser
