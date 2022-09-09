@@ -4,10 +4,10 @@
 *I'm a person who's obsessed about **Linux** and loves to write `<code>`*
 
 <br/><br/>
-
-I mostly write **Rust** & **JS/TS** these days. <br/>
-Freelancer/Founder at [**Al Bustan**](https://albustan.net) and I work every now and then on [ItChat](https://github.com/itchatapp) a discord-like alternative <br/>
-Also I'm the [***fifth most active github user in egypt.***](https://commits.top/egypt.html)
+Hi, I'm a [***freelancer***](https://fiverr.com/abdulrahman1s) at Fiverr.com.
+I mostly write **Rust** & **JS/TS** these days, <br/> 
+additionally I have a solid experience with **Go**, **Python** and **Dart** <br/>
+and yeah I am [***the fourth most active github user in egypt.***](https://commits.top/egypt.html)
 
 <details>
 <summary>🚀 <b>Learning curve...</b></summary>
@@ -27,7 +27,7 @@ Also I'm the [***fifth most active github user in egypt.***](https://commits.top
 
 <details>
 
-<summary>📈 <b>Some statistics that may surprise you!</b></summary>
+<summary>📈 <b>Statistics</b></summary>
 
 ![statistics](assets/statistics.svg)
 
