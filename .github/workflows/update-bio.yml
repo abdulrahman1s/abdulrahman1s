@@ -13,7 +13,7 @@ jobs:
           curl
           --request PATCH
           --header "Authorization: Bearer ${{ secrets.GH_TOKEN }}"
-          --data "{\"bio\": \"$(shuf -n 1 $QUOTES_URI) $SIGNATURE\" }" 
+          --data "{\"bio\": \"$(curl -sS $QUOTES_URI | shuf -n 1) $SIGNATURE\" }" 
           --silent
           --output /dev/null
           https://api.github.com/user
