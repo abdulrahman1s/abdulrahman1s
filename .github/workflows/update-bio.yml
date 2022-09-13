@@ -1,5 +1,4 @@
 name: Update Bio
-
 on:
   schedule: [{cron: "0 */3 * * *"}]
   workflow_dispatch:
@@ -9,5 +8,5 @@ jobs:
     steps: 
       - uses: actions/checkout@v3
       - run: | 
-          curl -s -o /dev/null -X PATCH -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" -d "{\"bio\": \"$(shuf -n 1 ./assets/prophet-muhammad-quotes.txt)\" }" https://api.github.com/user
+          curl -s -o /dev/null -X PATCH -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" -d "{\"bio\": \"$(shuf -n 1 ./assets/prophet-muhammad-quotes.txt) - Prophet Muhammad (ﷺ)\" }" https://api.github.com/user
           echo "Done!"
