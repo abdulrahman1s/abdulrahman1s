@@ -1,12 +1,19 @@
 name: Update Bio
 on:
-  schedule: [{cron: "0 */3 * * *"}]
+  schedule: [{ cron: "0 */3 * * *" }] # Runs every 3 hours
   workflow_dispatch:
 jobs:
   run:
     runs-on: ubuntu-latest
+    env: 
+       QUOTES_URI: https://raw.githubusercontent.com/abdulrahman1s/abdulrahman1s/master/assets/prophet-muhammad-quotes.txt
+       SIGNATURE: "- Prophet Muhammad (ﷺ)"
     steps: 
-      - uses: actions/checkout@v3
-      - run: | 
-          curl -s -o /dev/null -X PATCH -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" -d "{\"bio\": \"$(shuf -n 1 ./assets/prophet-muhammad-quotes.txt) - Prophet Muhammad (ﷺ)\" }" https://api.github.com/user
-          echo "Done!"
+      - run: >
+          curl
+          --request PATCH
+          --header "Authorization: Bearer ${{ secrets.GH_TOKEN }}"
+          --data "{\"bio\": \"$(shuf -n 1 $QUOTES_URI) $SIGNATURE\" }" 
+          --silent
+          --output /dev/null
+          https://api.github.com/user
