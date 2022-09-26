@@ -1,11 +1,10 @@
-[![committers.top badge](https://user-badge.committers.top/egypt/abdulrahman1s.svg)](https://user-badge.committers.top/egypt/abdulrahman1s)
-
-<img align="left" src="https://i.ibb.co/ZJGDpqh/image.png">
+<img align="left" src="assets/logo.png">
 
 ### Hey - Salam Alaikum!
 *I'm a person who's obsessed about **Linux** and loves to write `<code>`*
 
 <br/><br/>
+
 
 
 Hi, I'm a [***freelancer***](https://fiverr.com/abdulrahman1s) at Fiverr.com.
