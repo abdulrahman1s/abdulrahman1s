@@ -14,23 +14,6 @@ and yeah I am [***the fourth most active github user in egypt.***](https://commi
 
 
 <details>
-<summary>🚀 <b>Learning curve...</b></summary>
-
-- [X] Programming Foundations
-- [ ] Full Stack Developer
-  - [X] Backend
-  - [ ] Frontend (Mostly done)
-- [ ] Things I wish to learn this year!
-  - [X] Rust
-  - [ ] Go
-  - [ ] Kotlin
-  - [ ] C#
-  - [ ] Flutter
-  - [X] Shell Scripting
-</details>
-
-<details>
-
 <summary>📈 <b>Statistics</b></summary>
 
 ![statistics](assets/statistics.svg)
@@ -49,15 +32,10 @@ and yeah I am [***the fourth most active github user in egypt.***](https://commi
 [![articles](assets/articles.svg)](https://dev.to/abdulrahman1s)
 </details>
 
+
 <details>
-<summary>🏕 <b>My Workstation</b></summary>
-
-- **PC:** i3 3110M + 4GB of RAM
-- **OS:** Nobara linux
-- **Code Editor:** Neovim
-  - All of my configurations can be found [here](https://github.com/abdulrahman1s/dotfiles).
-- **Browser:** Brave Browser
-
+<summary>😍 <b>Feedback</b></summary>
+<!--{{feedback}}-->
 </details>
 
 
