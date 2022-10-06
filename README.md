@@ -37,8 +37,8 @@ and yeah I am [***the fourth most active github user in egypt.***](https://commi
 <summary>😍 <b>Feedback</b></summary>
 
 <!--{{feedback_start}}-->
-- t_t_a_m: **Very helpfull and very fast working!**
-- jork888: **an understanding person. Clever**
+- [@t_t_a_m](https://fiverr.com/t_t_a_m): **Very helpfull and very fast working!**
+- [@jork888](https://fiverr.com/jork888): **an understanding person. Clever**
 <!--{{feedback_end}}-->
 
 > Source: https://fiverr.com/abdulrahman1s
