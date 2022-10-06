@@ -1,0 +1,19 @@
+name: Fiverr reviews
+on:
+  schedule: [{cron: "0 0 * * FRI"}]
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+       - uses: actions/checkout@v2
+       - name: Setup nodejs
+         uses: actions/setup-node@v1
+         run: node --version
+       - name: Push changes
+         run: |
+               git config --global user.name "github-actions"
+               git config --global user.email "github-actions@github.com"
+               git add -A
+               git commit -m "Update fiverr reviews"
+               git push
