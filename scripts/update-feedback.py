@@ -1,6 +1,20 @@
 import requests
+import re
 
-reviews = requests.get("https://abdulrahman1s-fiverr-api.deno.dev/abdulrahman1s/reviews").json()
-content = '\n'.join(map(lambda r: f"- {r.username}: **{r.comment}**", reviews))
+username = "abdulrahman1s"
+regex = r"<!--{{feedback_start}}-->[\s\S\n]+<!--{{feedback_end}}-->"
+reviews = requests.get(f"https://abdulrahman1s-fiverr-api.deno.dev/{username}/reviews").json()
 
-print(content)
+def format_review(review):
+    username = review["username"]
+    comment = review["comment"]
+    return f"- {username}: **{comment}**"
+
+content = '\n'.join(map(format_review, reviews))
+
+
+with open("README.md", "r+") as file:
+   file_content = file.read()
+   file_content = re.sub(regex, "<!--{{feedback_start}}-->\n" + content + "\n<!--{{feedback_end}}-->", file_content)
+   file.seek(0)
+   file.write(file_content)
