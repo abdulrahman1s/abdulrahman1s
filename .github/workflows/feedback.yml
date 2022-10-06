@@ -9,6 +9,7 @@ jobs:
        - uses: actions/checkout@v2
        - name: Setup nodejs
          uses: actions/setup-node@v1
+       - name: run
          run: node --version
        - name: Push changes
          run: |
