@@ -12,7 +12,7 @@ jobs:
          with:
            node-version: 18
        - name: run
-         run: node --version
+         run: node scripts/update-feedback.js
        - name: Push changes
          run: |
                git config --global user.name "github-actions"
