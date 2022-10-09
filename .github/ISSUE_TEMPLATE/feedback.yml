@@ -1,0 +1,16 @@
+name: Feedback
+description: Submit a feedback
+title: "[Feedback]: "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feedback!
+  - type: textarea
+    id: description
+    attributes:
+      label: Content
+      placeholder: Tell us what you see!
+    validations:
+      required: true
