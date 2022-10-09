@@ -37,7 +37,6 @@ and yeah I am [***the fourth most active github user in egypt.***](https://commi
 <summary>😍 <b>Feedback</b></summary>
 
 <!--feedback_start-->
-- [@abdulrahman1s](https://github.com/abdulrahman1s): **hello world**
 - [@t_t_a_m](https://fiverr.com/t_t_a_m): **Very helpfull and very fast working!**
 - [@jork888](https://fiverr.com/jork888): **an understanding person. Clever**
 <!--feedback_end-->
@@ -55,4 +54,6 @@ and yeah I am [***the fourth most active github user in egypt.***](https://commi
 
 <div align="center">
     Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
+</div>
+f="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
 </div>
