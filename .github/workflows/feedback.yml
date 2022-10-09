@@ -12,6 +12,11 @@ jobs:
     steps:
        - uses: actions/checkout@v3
        - if: github.event_name == 'issues'
+         uses: peter-evans/close-issue@v2
+         with:
+          comment: |
+            Thank you very much. I really appreciate your feedback. <3
+       - if: github.event_name == 'issues'
          name: Fetch Github Feedback
          run: python scripts/github-feedback.py
          env: 
