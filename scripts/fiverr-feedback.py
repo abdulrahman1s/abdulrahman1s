@@ -17,8 +17,8 @@ content = '\n'.join(map(format_review, filter(lambda r: r["value"] >= 4, reviews
 with open("README.md", "r+") as file:
    file_content = file.read()
    file_content = re.sub(
-               r"<!--{{fiverr_start}}-->[\s\S\n]+<!--{{fiverr_end}}-->", 
-               "<!--{{fiverr_start}}-->\n" + content + "\n<!--{{fiverr_end}}-->", file_content)
+               r"<!--fiverr_feedback_start-->[\s\S\n]+<!--fiverr_feedback_end-->", 
+               f"<!--fiverr_feedback_start-->\n{content}\n<!--fiverr_feedback_end-->", file_content)
 
    file.seek(0)
    file.write(file_content)
