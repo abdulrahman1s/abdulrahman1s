@@ -1,10 +1,14 @@
 name: Github Feedback
 on:
   issues:
-    types: [opened]
+    types: [opened, edited]
 
 env: 
-    ISSUE_BODY: ${{ github.event.issue.body }}
+    BODY: ${{ github.event.issue.body }}
+    CREATED_AT: ${{ github.event.issue.created_at }}
+    USER_ID: ${{ github.event.issue.user.id }}
+    USERNAME: ${{ github.event.issue.user.login }}
+    AVATAR_URL: ${{ github.event.issue.user.avatar_url }}
 
 jobs:
   github-feedback:
