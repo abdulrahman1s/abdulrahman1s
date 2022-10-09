@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this feedback!
-  - type: textarea
+  - type: input
     id: description
     attributes:
       label: Description
