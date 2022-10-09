@@ -10,6 +10,7 @@ def transform(reviews):
 
     def into_review(r):
         return {
+            "user_id": None,
             "username": r["username"],
             "avatar": r["user_image_url"] if "user_image_url" in r else None,
             "content": r["comment"],
