@@ -20,8 +20,8 @@ jobs:
            USER_ID: ${{ github.event.issue.user.id }}
            USERNAME: ${{ github.event.issue.user.login }}
            AVATAR_URL: ${{ github.event.issue.user.avatar_url }}
-       - if: github.event_name != 'issues'
-         name: Fetch Fiverr Feedback
+   #   - if: github.event_name != 'issues'
+       - name: Fetch Fiverr Feedback
          run: python scripts/fiverr-feedback.py
        - name: Update README
          run: python scripts/feedback-readme.py
