@@ -23,6 +23,8 @@ jobs:
        - if: github.event_name != 'issues'
          name: Fetch Fiverr Feedback
          run: python scripts/fiverr-feedback.py
+       - name: Update README
+         run: python scripts/feedback-readme.py
        - name: Push changes
          run: |
                git config --global user.name "github-actions"
