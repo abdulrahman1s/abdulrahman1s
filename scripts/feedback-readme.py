@@ -20,6 +20,6 @@ feedback = '\n'.join(map(format, feedback))
 
 with open("README.md", "r+") as file:
      content = file.read()
-     content = re.sub(r"<!--feedback_start-->[\s\S\n]+<!--feedback_end-->", f"<!--feedback_start-->{feedback}<!--feedback_end-->", content)
+     content = re.sub(r"<!--feedback_start-->[\s\S\n]+<!--feedback_end-->", f"<!--feedback_start-->\n{feedback}\n<!--feedback_end-->", content)
      file.seek(0)
      file.write(content)
