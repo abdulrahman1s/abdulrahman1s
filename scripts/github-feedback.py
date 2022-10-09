@@ -7,7 +7,7 @@ review =  {
             "user_id": env["USER_ID"],
             "username": env["USERNAME"],
             "avatar": env["AVATAR_URL"] if "AVATAR_URL" in env else None,
-            "content": env["BODY"],
+            "content": '\n'.join(env["BODY"].splitlines()[3:]),
             "created_at": env["CREATED_AT"],
             "source": "github",
 }
