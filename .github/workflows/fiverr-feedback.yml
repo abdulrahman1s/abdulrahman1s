@@ -1,4 +1,4 @@
-name: Fiverr reviews
+name: Fiverr Feedback
 on:
   schedule: [{cron: "0 0 * * FRI"}]
   workflow_dispatch:
@@ -8,7 +8,7 @@ jobs:
     steps:
        - uses: actions/checkout@v3
        - name: Execute script
-         run: python scripts/update-feedback.py
+         run: python scripts/fiverr-feedback.py
        - name: Push changes
          run: |
                git config --global user.name "github-actions"
