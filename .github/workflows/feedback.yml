@@ -1,0 +1,32 @@
+name: Feedback
+on:
+  issues:
+    types: [opened, edited]
+  schedule: [{cron: "0 0 * * FRI"}]
+  workflow_dispatch:
+
+
+jobs:
+  github-feedback:
+    runs-on: ubuntu-latest
+    steps:
+       - uses: actions/checkout@v3
+       - if: github.event_name == "issues"
+         name: Fetch Github Feedback
+         run: python scripts/github-feedback.py
+         env: 
+           BODY: ${{ github.event.issue.body }}
+           CREATED_AT: ${{ github.event.issue.created_at }}
+           USER_ID: ${{ github.event.issue.user.id }}
+           USERNAME: ${{ github.event.issue.user.login }}
+           AVATAR_URL: ${{ github.event.issue.user.avatar_url }}
+       - if: github.event_name != "issues"
+         name: Fetch Fiverr Feedback
+         run: python scripts/fiverr-feedback.py
+       - name: Push changes
+         run: |
+               git config --global user.name "github-actions"
+               git config --global user.email "github-actions@github.com"
+               git add -A
+               git commit -m "Update github feedback"
+               git push
