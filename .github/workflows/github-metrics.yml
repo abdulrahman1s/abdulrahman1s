@@ -3,6 +3,7 @@ on:
   schedule: [{cron: "0 0 * * FRI"}]
   push: 
       branches: [master]
+      paths-ignore: ['.github/**']
   workflow_dispatch:
 jobs:
   github-metrics:
