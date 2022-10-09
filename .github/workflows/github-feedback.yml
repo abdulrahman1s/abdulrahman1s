@@ -1,0 +1,22 @@
+name: Github Feedback
+on:
+  issues:
+    types: [opened]
+
+env: 
+    ISSUE_BODY: ${{ github.event.issue.body }}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+       - uses: actions/checkout@v3
+       - name: Execute script
+         run: python scripts/github-feedback.py
+       - name: Push changes
+         run: |
+               git config --global user.name "github-actions"
+               git config --global user.email "github-actions@github.com"
+               git add -A
+               git commit -m "Update github feedback"
+               git push
