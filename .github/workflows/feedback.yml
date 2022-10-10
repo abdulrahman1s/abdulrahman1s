@@ -3,11 +3,12 @@ on:
   issues:
     types: [labeled, edited]
   schedule: [{cron: "0 0 * * FRI"}]
+  push:
+    paths: ["assets/feedback.json"]
   workflow_dispatch:
 
-
 jobs:
-  github-feedback:
+  runner:
     runs-on: ubuntu-latest
     steps:
        - uses: actions/checkout@v3
