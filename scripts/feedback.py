@@ -25,14 +25,16 @@ def format(review):
     return f"- [@{username}]({url}): **{content}**"
 
 
-json_file = open("assets/feedback.json", "r+")
 feedback = {}
+json_file = open("assets/feedback.json", "r+")
 
 for r in json.loads(json_file.read()):
     feedback[r["username"]] = r
 
 if is_github():
-    feedback[env["USER_ID"]] = {
+    is_valid_body = re.match(r"^\s*### Description[\n\s]{3}", env["BODY"])
+
+    if is_valid_body: feedback[env["USER_ID"]] = {
         "user_id": env["USER_ID"],
         "username": env["USERNAME"],
         "avatar": env["AVATAR_URL"] if "AVATAR_URL" in env else None,
