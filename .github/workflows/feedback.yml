@@ -1,7 +1,7 @@
 name: Feedback
 on:
   issues:
-    types: [opened, edited]
+    types: [labeled, edited]
   schedule: [{cron: "0 0 * * FRI"}]
   workflow_dispatch:
 
