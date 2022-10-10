@@ -39,7 +39,6 @@ and yeah I am [***the fourth most active github user in egypt.***](https://commi
 <!--feedback_start-->
 - [@t_t_a_m](https://fiverr.com/t_t_a_m): **Very helpfull and very fast working!**
 - [@jork888](https://fiverr.com/jork888): **an understanding person. Clever**
-- [@abdulrahman1s](https://github.com/abdulrahman1s): **test :D**
 <!--feedback_end-->
 
 [![feedback_button](https://img.shields.io/badge/submit%20feedback-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/abdulrahman1s/abdulrahman1s/issues/new?assignees=&labels=feedback&template=feedback.yml&title=Feedback+Submission)
@@ -56,4 +55,6 @@ and yeah I am [***the fourth most active github user in egypt.***](https://commi
 
 <div align="center">
     Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
+</div>
+ttps://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
 </div>
