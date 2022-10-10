@@ -56,5 +56,3 @@ and yeah I am [***the fourth most active github user in egypt.***](https://commi
 <div align="center">
     Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
 </div>
-s://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
-</div>
