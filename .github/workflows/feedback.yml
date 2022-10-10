@@ -2,13 +2,12 @@ name: Feedback
 on:
   issues:
     types: [labeled, edited]
-  schedule: [{cron: "0 0 * * FRI"}]
   push:
-    paths: ["assets/feedback.json"]
+    paths: ["assets/feedback.json", "scripts/feedback.py"]
+  schedule: [{cron: "0 0 * * FRI"}]
   workflow_dispatch:
-
 jobs:
-  runner:
+  run:
     runs-on: ubuntu-latest
     steps:
        - uses: actions/checkout@v3
@@ -17,20 +16,14 @@ jobs:
          with:
           comment: |
             Thank you very much. I really appreciate your feedback. <3
-       - if: github.event_name == 'issues' && github.event.label.name == 'feedback'
-         name: Fetch Github Feedback
-         run: python scripts/github-feedback.py
+       - name: Fetch Feedback
+         run: python scripts/feedback.py
          env: 
            BODY: ${{ github.event.issue.body }}
            CREATED_AT: ${{ github.event.issue.created_at }}
            USER_ID: ${{ github.event.issue.user.id }}
            USERNAME: ${{ github.event.issue.user.login }}
            AVATAR_URL: ${{ github.event.issue.user.avatar_url }}
-   #   - if: github.event_name != 'issues'
-       - name: Fetch Fiverr Feedback
-         run: python scripts/fiverr-feedback.py
-       - name: Update README
-         run: python scripts/feedback-readme.py
        - name: Push changes
          run: |
                git config --global user.name "github-actions"
