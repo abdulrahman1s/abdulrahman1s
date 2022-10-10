@@ -29,7 +29,7 @@ json_file = open("assets/feedback.json", "r+")
 feedback = {}
 
 for r in json.loads(json_file.read()):
-    feedback[r["usename"]] = r
+    feedback[r["username"]] = r
 
 if is_github():
     feedback[env["USER_ID"]] = {
