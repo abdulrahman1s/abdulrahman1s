@@ -42,8 +42,9 @@ and yeah I am [***the fourth most active github user in egypt.***](https://commi
 - [@abdulrahman1s](https://github.com/abdulrahman1s): **test :D**
 <!--feedback_end-->
 
+[![feedback_button](https://img.shields.io/badge/submit%20feedback-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/abdulrahman1s/abdulrahman1s/issues/new?assignees=&labels=feedback&template=feedback.yml&title=Feedback+Submission)
 
-> Source: https://fiverr.com/abdulrahman1s
+> Source: [fiverr](https://fiverr.com/abdulrahman1s) & [github](https://github.com/abdulrahman1s/abdulrahman1s/issues?q=is%3Aissue+label%3Afeedback)
 </details>
 
 
@@ -55,6 +56,4 @@ and yeah I am [***the fourth most active github user in egypt.***](https://commi
 
 <div align="center">
     Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
-</div>
-f="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
 </div>
