@@ -1,6 +1,6 @@
 name: 🥰 Feedback
 description: Submit a feedback
-title: "[Feedback]: "
+title: "Feedback Submission"
 labels: "feedback"
 body:
   - type: markdown
