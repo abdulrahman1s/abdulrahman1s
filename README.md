@@ -48,10 +48,10 @@ and yeah I am [***the fourth most active github user in egypt.***](https://commi
 
 
 ### 💬 Follow me
-- <img height="16" width="16" src="assets/twitter-logo.png" /> [@abdulrahman1s_](https://twitter.com/TheMaestro1s) at Twitter
-- <img height="16" width="16" src="assets/linkedin-logo.png" /> [@abdulrahmann](https://linkedin.com/in/abdulrahmann) at Linkedin
-- <img height="16" width="16" src="assets/fiverr-logo.png" /> [@abdulrahman1s](https://fiverr.com/abdulrahman1s) at Fiverr
-- <img height="16" width="16" src="assets/dev-to-logo.png" /> [@abdulrahman1s](https://dev.to/abdulrahman1s) at Dev.to
+- <img height="16" width="16" src="assets/icons/twitter.png" /> [@abdulrahman1s_](https://twitter.com/TheMaestro1s) at Twitter
+- <img height="16" width="16" src="assets/icons/linkedin.png" /> [@abdulrahmann](https://linkedin.com/in/abdulrahmann) at Linkedin
+- <img height="16" width="16" src="assets/icons/fiverr.png" /> [@abdulrahman1s](https://fiverr.com/abdulrahman1s) at Fiverr
+- <img height="16" width="16" src="assets/icons/devto.png" /> [@abdulrahman1s](https://dev.to/abdulrahman1s) at Dev.to
 
 <div align="center">
     Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
