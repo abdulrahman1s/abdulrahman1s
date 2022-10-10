@@ -3,9 +3,12 @@ import json
 
 feedback = json.loads(open("assets/feedback.json", "r").read())
 
+def remove_markdown(string):
+    return re.sub(r"[`*_()[\]<>]+", "", string)
+
 def format(review):
     username = review["username"]
-    content = review["content"]
+    content = remove_markdown(review["content"])
     source = review["source"]
     url = ""
     
