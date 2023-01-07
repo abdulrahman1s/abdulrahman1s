@@ -48,9 +48,10 @@ additionally I have a solid experience with **Go**, **Python** and **Dart** <br/
 
 
 ### 💬 Follow me
-- <img height="16" width="16" src="assets/icons/twitter.png" /> [@abdulrahman1s_](https://twitter.com/TheMaestro1s) at Twitter
+- <img height="16" width="16" src="assets/icons/twitter.png" /> [@abdulrahman1s_](https://twitter.com/abdulrahman1s_) at Twitter
 - <img height="16" width="16" src="assets/icons/linkedin.png" /> [@abdulrahmann](https://linkedin.com/in/abdulrahmann) at Linkedin
 - <img height="16" width="16" src="assets/icons/fiverr.png" /> [@abdulrahman1s](https://fiverr.com/abdulrahman1s) at Fiverr
+- <img height="18" width="18" src="assets/icons/upwork.png" /> [@abdulrahman1s](https://upwork.com/freelancers/~0177948e58caa12119) at Upwork
 - <img height="16" width="16" src="assets/icons/devto.png" /> [@abdulrahman1s](https://dev.to/abdulrahman1s) at Dev.to
 
 <div align="center">
