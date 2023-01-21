@@ -40,13 +40,22 @@ additionally I have a solid experience with **Go**, **Python** and **Dart** <br/
 - [@t_t_a_m](https://fiverr.com/t_t_a_m): **Very helpfull and very fast working!**
 - [@jork888](https://fiverr.com/jork888): **an understanding person. Clever**
 - [@jaime15z](https://fiverr.com/jaime15z): **Great service**
-- [@ahmadsalah289](https://fiverr.com/ahmadsalah289): The best programmer you can deal with Professional job On time delivery Smooth handling Quick response to your inquiries In short.. The best
+- [@ahmadsalah289](https://fiverr.com/ahmadsalah289): **The best programmer you can deal with Professional job On time delivery Smooth handling Quick response to your inquiries In short..The best**
 - [@miminas](https://ko-fi.com/home/coffeeshop?txid=ef758c0b-3452-4126-bb07-8eaa4f392407&mode=public&img=ogbuymeacoffee): **Very good job on fem-dl! Thank You! (miminas from github)**
+- [! KHALED#4866](https://discord.com/users/911010045393772604): **راجال جامد**
+- [Follett#0099](https://discord.com/users/601871597728694302): **ماقصر معي ابداً**
+- [NJR#6301](https://discord.com/users/200104010458333184): **يفهم و ماخذا يعمل الا 15د وهو مخلص الكود**
+- [, Ahmed ,#8343](https://discord.com/users/924676253578055710): **❤️ مشكوووور**
 <!--feedback_end-->
 
 [![feedback_button](https://img.shields.io/badge/submit%20feedback-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/abdulrahman1s/abdulrahman1s/issues/new?assignees=&labels=feedback&template=feedback.yml&title=Feedback+Submission)
 
-> Source: [fiverr](https://fiverr.com/abdulrahman1s) & [github](https://github.com/abdulrahman1s/abdulrahman1s/issues?q=is%3Aissue+label%3Afeedback)
+> Sources:
+- [Fiverr](https://fiverr.com/abdulrahman1s)
+- [Discord](https://discord.com/)
+- [Github](https://github.com/abdulrahman1s/abdulrahman1s/issues?q=is%3Aissue+label%3Afeedback)
+- [Ko-Fi](https://ko-fi.com/abdulrahman1s)
+
 </details>
 
 
