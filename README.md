@@ -39,6 +39,9 @@ additionally I have a solid experience with **Go**, **Python** and **Dart** <br/
 <!--feedback_start-->
 - [@t_t_a_m](https://fiverr.com/t_t_a_m): **Very helpfull and very fast working!**
 - [@jork888](https://fiverr.com/jork888): **an understanding person. Clever**
+- [@jaime15z](https://fiverr.com/jaime15z): **Great service**
+- [@ahmadsalah289](https://fiverr.com/ahmadsalah289): The best programmer you can deal with Professional job On time delivery Smooth handling Quick response to your inquiries In short.. The best
+- [@miminas](https://ko-fi.com/home/coffeeshop?txid=ef758c0b-3452-4126-bb07-8eaa4f392407&mode=public&img=ogbuymeacoffee): **Very good job on fem-dl! Thank You! (miminas from github)**
 <!--feedback_end-->
 
 [![feedback_button](https://img.shields.io/badge/submit%20feedback-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/abdulrahman1s/abdulrahman1s/issues/new?assignees=&labels=feedback&template=feedback.yml&title=Feedback+Submission)
