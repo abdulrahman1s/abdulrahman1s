@@ -1,16 +1,14 @@
 <img align="left" src="assets/logo.png">
 
 ### Hey - Salam Alaikum!
-*I'm a person who's obsessed about **Linux** and loves to write `<code>`*
+*'I'm a passionate [**Linux**](https://www.youtube.com/watch?v=jdUXfsMTv7o) and **open-source** enthusiast who loves writing `<code>`.*
 
 <br/><br/>
 
 
 
+Hi, I am a skilled [***freelancer***](https://fiverr.com/abdulrahman1s) professional operating on Fiverr.com. My area of specialization lies in proficiently crafting programming codes in **Rust**, **JS/TS**, **Go**, **Python**, and **Dart**. I possess a substantial amount of hands-on experience in these programming languages, which makes me proficient in delivering exceptional results to my clients. <br/>
 
-Hi, I'm a [***freelancer***](https://fiverr.com/abdulrahman1s) at Fiverr.com.
-I mostly write **Rust** & **JS/TS** these days, <br/> 
-additionally I have a solid experience with **Go**, **Python** and **Dart** <br/>
 
 
 <details>
@@ -64,8 +62,6 @@ additionally I have a solid experience with **Go**, **Python** and **Dart** <br/
 - <img height="16" width="16" src="assets/icons/twitter.png" /> [@abdulrahman1s_](https://twitter.com/abdulrahman1s_) at Twitter
 - <img height="16" width="16" src="assets/icons/linkedin.png" /> [@abdulrahmann](https://linkedin.com/in/abdulrahmann) at Linkedin
 - <img height="16" width="16" src="assets/icons/fiverr.png" /> [@abdulrahman1s](https://fiverr.com/abdulrahman1s) at Fiverr
-- <img height="18" width="18" src="assets/icons/upwork.png" /> [@abdulrahman1s](https://upwork.com/freelancers/~0177948e58caa12119) at Upwork
-- <img height="16" width="16" src="assets/icons/devto.png" /> [@abdulrahman1s](https://dev.to/abdulrahman1s) at Dev.to
 
 <div align="center">
     Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
