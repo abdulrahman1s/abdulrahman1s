@@ -35,6 +35,9 @@ Hi, I am a skilled [***freelancer***](https://fiverr.com/abdulrahman1s) professi
 <summary>😍 <b>Feedback</b></summary>
 
 <!--feedback_start-->
+- [@roblox_coder](https://fiverr.com/roblox_coder): **This seller was very quick at his work, and it came with great quality. If your looking for a developer, this is the man.**
+- [@harsh1109](https://fiverr.com/harsh1109): **very good experience. give proper time and response. have great knowledge. i gave one more project to him. thanks buddy**
+- [@masonduncan](https://fiverr.com/masonduncan): **very quick and high quality project that was made, thank you very much**
 - [@t_t_a_m](https://fiverr.com/t_t_a_m): **Very helpfull and very fast working!**
 - [@jork888](https://fiverr.com/jork888): **an understanding person. Clever**
 - [@jaime15z](https://fiverr.com/jaime15z): **Great service**
