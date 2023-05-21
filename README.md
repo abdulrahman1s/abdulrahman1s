@@ -67,5 +67,7 @@ Hi, I am a skilled [***freelancer***](https://fiverr.com/abdulrahman1s) professi
 - <img height="16" width="16" src="assets/icons/fiverr.png" /> [@abdulrahman1s](https://fiverr.com/abdulrahman1s) at Fiverr
 
 <div align="center">
-    Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
+
+|  Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a> |
+|---------------------------------------------------------------------------------------------------------------------------------|
 </div>
