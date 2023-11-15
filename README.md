@@ -1,11 +1,11 @@
 <img align="left" src="assets/logo.png">
 
-### Hey - Salam Alaikum!
+### 👋 Hey - Salam Alaikum!
 *'I'm a passionate [**Linux**](https://www.youtube.com/watch?v=jdUXfsMTv7o) and **open-source** enthusiast who loves writing `<code>`.*
 
 <br/><br/>
 
-I am a [*freelancer*](https://fiverr.com/abdulrahman1s), harnessing the powers of **Rust**, **JS/TS**, **Go** and **Python**. Let's embark on a coding adventure together, where we'll create extraordinary software and craft mesmerizing web experiences. </br>Follow me in the realm of programming and let our code reshape the digital world!
+I'm a self-taught open-source enthusiast and a thriving [freelancer](https://fiverr.com/abdulrahman1s) on Fiverr.com. Hailing from Egypt, I'm fluent in both Arabic and English. My passion lies in programming, driven by the desire to contribute to making the world a better place. <br/>Follow me to stay updated on my future contributions, and if I've been of help to you, consider making a [donation](https://ko-fi.com/abdulrahman1s) – every bit counts and means a lot to me. 🚀
 
 <details>
 <summary>📈 <b>Statistics</b></summary>
