@@ -24,7 +24,6 @@ I'm a self-taught open-source enthusiast and a thriving [freelancer](https://fiv
 ### 💬 Follow me
 - <img height="16" width="16" src="assets/icons/twitter.png" /> [@abdulrahman1s_](https://twitter.com/abdulrahman1s_) at Twitter
 - <img height="16" width="16" src="assets/icons/linkedin.png" /> [@abdulrahmann](https://linkedin.com/in/abdulrahmann) at Linkedin
-- <img height="16" width="16" src="assets/icons/fiverr.png" /> [@abdulrahman1s](https://fiverr.com/abdulrahman1s) at Fiverr
 
 <div align="center">
 
