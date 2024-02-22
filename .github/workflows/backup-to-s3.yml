@@ -10,8 +10,8 @@ jobs:
        - name: Run script
          run: chmod +x scripts/github-to-s3 && scripts/github-to-s3
          env: 
-           BODY: ${{ github.event.issue.body }}
-           CREATED_AT: ${{ github.event.issue.created_at }}
-           USER_ID: ${{ github.event.issue.user.id }}
-           USERNAME: ${{ github.event.issue.user.login }}
-           AVATAR_URL: ${{ github.event.issue.user.avatar_url }}
+           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+           S3_BUCKET_NAME: ${{ secrets.S3_BUCKET_NAME }}
+           S3_KEY: ${{ secrets.S3_ENDPOINT }}
+           S3_SECRET: ${{ secrets.S3_SECRET }}
+           S3_ENDPOINT: ${{ secrets.S3_ENDPOINT }}
