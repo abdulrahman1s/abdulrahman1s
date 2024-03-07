@@ -21,9 +21,6 @@ I'm a self-taught open-source enthusiast and a thriving [freelancer](https://fiv
 </details>
 
 
-### 💬 Follow me
-- <img height="16" width="16" src="assets/icons/twitter.png" /> [@abdulrahman1s_](https://twitter.com/abdulrahman1s_)
-
 <div align="center">
 
 
