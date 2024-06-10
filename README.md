@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-I'm a self-taught open-source enthusiast and a thriving [freelancer](https://fiverr.com/abdulrahman1s) on Fiverr.com. Hailing from Egypt, I'm fluent in both Arabic and English. My passion lies in programming, driven by the desire to contribute to making the world a better place. <br/>Follow me to stay updated on my future contributions, and if I've been of help to you, consider making a [donation](https://ko-fi.com/abdulrahman1s) – every bit counts and means a lot to me. 🚀
+I'm a self-taught open-source enthusiast and a thriving [freelancer](https://fiverr.com/abdulrahman1s) on Fiverr.com. Hailing from Egypt, I'm fluent in both Arabic and English. My passion lies in programming, driven by the desire to contribute to making the world a better place. <br/>Follow me to stay updated on my future contributions.
 
 <details>
 <summary>📈 <b>Statistics</b></summary>
